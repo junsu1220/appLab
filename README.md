@@ -7,12 +7,6 @@ AppLab 랜딩 페이지(홈페이지)를 만든 프로젝트입니다. <br>
 
 [DEMO](https://singular-shortbread-f5b80f.netlify.app/) <br/>
 
-## pictures
-<img src="./images/1.JPG" width="500" height="500">
-<img src="./images/2.JPG" width="500" height="500">
-<img src="./images/3.JPG" width="500" height="500">
-<img src="./images/4.JPG" width="500" height="500">
-
 ## 프로젝트의 주안점
 1. HTML & CSS 역량을 보여줄 수 있는 프로젝트를 하자
 2. 웹디자인 시안을 받고 그대로 만들어보자.
@@ -59,3 +53,9 @@ ul.homekey의 서브메뉴들을 flex해서 가로정렬해야하는데<br>
 이미지를 삽입하면 아주 조금 자리를 차지하는것같아 사이즈를 늘려보고<br>
 z-index를 99로 주기도 해봤지만 변화가 없길래 뭔가 했는데<br>
 알고보니 파일명에 '#'이 들어가서 였다 해결되어서 다행이다.<br>
+
+## pictures
+<img src="./images/1.JPG" width="500" height="500">
+<img src="./images/2.JPG" width="500" height="500">
+<img src="./images/3.JPG" width="500" height="500">
+<img src="./images/4.JPG" width="500" height="500">
