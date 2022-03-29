@@ -7,6 +7,12 @@ AppLab 랜딩 페이지(홈페이지)를 만든 프로젝트입니다. <br>
 
 [DEMO](https://singular-shortbread-f5b80f.netlify.app/) <br/>
 
+## pictures
+<img src="./images/1.JPG" width="500" height="500">
+<img src="./images/2.JPG" width="500" height="500">
+<img src="./images/3.JPG" width="500" height="500">
+<img src="./images/4.JPG" width="500" height="500">
+
 ## 프로젝트의 주안점
 1. HTML & CSS 역량을 보여줄 수 있는 프로젝트를 하자
 2. 웹디자인 시안을 받고 그대로 만들어보자.
